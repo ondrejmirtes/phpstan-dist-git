@@ -1,4 +1,5 @@
 {
+    "name": "ondrejmirtes/composer-git-dist-test",
     "autoload": {
         "files": ["bootstrap.php"]
     }
